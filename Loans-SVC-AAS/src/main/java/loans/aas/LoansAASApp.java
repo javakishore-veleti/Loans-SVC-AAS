@@ -1,10 +1,9 @@
 package loans.aas;
 
-/**
- * Hello world!
- *
- */
-public class App 
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class LoansAASApp 
 {
     public static void main( String[] args )
     {
